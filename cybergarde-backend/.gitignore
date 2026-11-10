@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+cybergarde.db
+cybergarde.db-*
