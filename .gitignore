@@ -1,0 +1,24 @@
+# Local and temporary files
+acl-backup-*.json
+acl-backup-*.json.ps1
+acl-report-*.jsonl
+test_*.py
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
